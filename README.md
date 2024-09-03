@@ -11,4 +11,4 @@ This project is a movie recommendation system that suggests movies similar to a 
 # How to Use
 * Load the dataset containing movie details.
 * Select a movie from the dataset.
-The system will output a list of movies similar to the selected movie.
+* The system will output a list of movies similar to the selected movie.
